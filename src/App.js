@@ -18,7 +18,7 @@ import Consulting from "./pages/Consulting";
 import SeoAgency from "./pages/SeoAgency";
 import PersonalPortfolio from "./pages/PersonalPortfolio";
 import EventConference from "./pages/EventConference";
-import CreativePortfolio from "./pages/CreativePortfolio";
+import CreativePortfolio from "./brdPages/CreativePortfolio";
 import Freelancer from "./pages/Freelancer";
 import InternationalConsulting from "./pages/InternationalConsulting";
 import Startup from "./pages/Startup";
@@ -43,7 +43,7 @@ import portfolioThreeColumn from "./elements/portfolio/PortfolioThreeColumn";
 import PortfolioFullWidth from "./elements/portfolio/PortfolioFullWidth";
 import PortfolioGrid from "./elements/portfolio/PortfolioGrid";
 import PortfolioBoxLayout from "./elements/portfolio/PortfolioBoxLayout";
-import PortfolioDetails from "./pages/PortfolioDetails";
+import PortfolioDetails from "./brdPages/PortfolioDetails";
 import Social from "./elements/social/Social";
 import Team from "./elements/team/Team";
 import Timeline from "./elements/timeline/Timeline";
@@ -75,10 +75,12 @@ import './assets/scss/style.scss';
 
 const App = () => {
     return (
-        <Router>
+        <Router basename='/beta'>
             <PageScrollTop>
                 <Switch>
-                    <Route path={`${process.env.PUBLIC_URL + "/"}`} exact component={BrdHome}/>
+                    <Route path="/" exact component={BrdHome}/>
+                    <Route path="/portfolio" exact component={CreativePortfolio}/>
+                    <Route path="/portfolio-details/:id" exact component={PortfolioDetails}/> 
                     {/* <Route path={`${process.env.PUBLIC_URL + "/business-consulting"}`} exact component={HomeDefault}/>
                     <Route path={`${process.env.PUBLIC_URL + "/business-consulting-2"}`} exact component={BusinessConsulting2}/>
                     <Route path={`${process.env.PUBLIC_URL + "/corporate"}`} exact component={Corporate}/>

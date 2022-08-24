@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "portfolioImage": "./images/portfolio/portfolio-01.jpg",
-        "image": "images/portfolio/portfolio-01.jpg",
-        "title": "App Development",
-        "subtitle": "Branded client",
-        "date": "30 May 2021",
-        "client": "Rainbow Themes",
-        "category": "development",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/chocolateMonkey/main.png",
+        "image": "./images/portfolio/chocolateMonkey/main.png",
+        "title": "Chocolate Monkey NFT Collection",
+        "subtitle": "NFT Smart Contract and DApp",
+        "date": "08 June 2022",
+        "client": "Chocolate Monkey",
+        "category": "NFT Collection",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://www.chocolatemonkeys.com/"
         },
-        "largeImage": "./images/portfolio/portfolio-01.jpg",
+        "largeImage": "images/portfolio/chocolateMonkey/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -29,29 +29,29 @@
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
         "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
+            "imageOne": "images/portfolio/chocolateMonkey/2.png",
+            "imageTwo": "images/portfolio/chocolateMonkey/3.png",
+            "imageThree": "images/portfolio/chocolateMonkey/4.png"
         }
     },
 
     {
         "id": 2,
-        "portfolioImage": "./images/portfolio/portfolio-02.jpg",
-        "image": "images/portfolio/portfolio-02.jpg",
-        "title": "Business Development",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "design",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/niftyDogs/main.png",
+        "image": "images/portfolio/niftyDogs/main.png",
+        "title": "Nifty Dogs NFT Collection",
+        "subtitle": "NFT Smart Contract and DApp",
+        "date": "26 July 2022",
+        "client": "Nifty Dogs",
+        "category": "NFT Collection",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://flowstatelabz.com/niftydogs/"
         },
-        "largeImage": "images/portfolio/portfolio-02.jpg",
+        "largeImage": "images/portfolio/niftyDogs/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -65,29 +65,29 @@
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
         "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
+            "imageOne": "images/portfolio/niftyDogs/2.png",
+            "imageTwo": "images/portfolio/niftyDogs/4.png",
+            "imageThree": "images/portfolio/niftyDogs/3.png"
         }
     },
 
     {
         "id": 3,
-        "portfolioImage": "./images/portfolio/portfolio-03.jpg",
-        "image": "images/portfolio/portfolio-03.jpg",
-        "title": "Photoshop Design",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "art",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/evilWizard/main.png",
+        "image": "images/portfolio/evilWizard/main.png",
+        "title": "Evil Wizard NFT Collection",
+        "subtitle": "NFT Smart Contract and DApp",
+        "date": "08 May 2022",
+        "client": "Evil Wizard",
+        "category": "NFT Collection",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://www.evilwizardsnft.com/"
         },
-        "largeImage": "images/portfolio/portfolio-03.jpg",
+        "largeImage": "images/portfolio/evilWizard/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -101,29 +101,29 @@
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
         "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
+            "imageOne": "images/portfolio/evilWizard/2.png",
+            "imageTwo": "images/portfolio/evilWizard/3.png",
+            "imageThree": "images/portfolio/evilWizard/4.png"
         }
     },
 
     {
         "id": 4,
-        "portfolioImage": "./images/portfolio/portfolio-04.jpg",
-        "image": "images/portfolio/portfolio-04.jpg",
-        "title": "Native Application",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "development",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/truestToken/main.png",
+        "image": "images/portfolio/truestToken/main.png",
+        "title": "Truest Token",
+        "subtitle": "Truest Token Website",
+        "date": "23 July 2022",
+        "client": "Truest Token",
+        "category": "Web Development",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://truesttoken1.surge.sh/"
         },
-        "largeImage": "images/portfolio/portfolio-04.jpg",
+        "largeImage": "images/portfolio/truestToken/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -137,29 +137,29 @@
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
         "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-04.jpg"
+            "imageOne": "images/portfolio/truestToken/2.png",
+            "imageTwo": "images/portfolio/truestToken/3.png",
+            "imageThree": "images/portfolio/truestToken/4.png"
         }
     },
 
     {
         "id": 5,
-        "portfolioImage": "./images/portfolio/portfolio-05.jpg",
-        "image": "images/portfolio/portfolio-05.jpg",
-        "title": "React Development",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "design",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/rog/main.png",
+        "image": "images/portfolio/rog/main.png",
+        "title": "Ride of Gamers ICO",
+        "subtitle": "Ride of Gamers ICO Smart Contract and DApp",
+        "date": "31 May 2022",
+        "client": "Ride of Gamers",
+        "category": "ICO",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "http://rogmetaverse.com/"
         },
-        "largeImage": "images/portfolio/portfolio-05.jpg",
+        "largeImage": "images/portfolio/rog/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -173,29 +173,29 @@
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
         "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
+            "imageOne": "images/portfolio/rog/2.png",
+            "imageTwo": "images/portfolio/rog/3.png",
+            "imageThree": "images/portfolio/rog/4.png"
         }
     },
 
     {
         "id": 6,
-        "portfolioImage": "./images/portfolio/portfolio-06.jpg",
-        "image": "images/portfolio/portfolio-06.jpg",
-        "title": "App Installment",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "design",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/sapiens/main.png",
+        "image": "images/portfolio/sapiens/main.png",
+        "title": "Sapien Squad Token ICO",
+        "subtitle": "Sapien Squad Token ICO Smart Contract and DApp",
+        "date": "25 April 2022",
+        "client": "Sapiens Lab",
+        "category": "ICO",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat."],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://sapien-ico.netlify.app/"
         },
-        "largeImage": "images/portfolio/portfolio-06.jpg",
+        "largeImage": "images/portfolio/sapiens/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -208,30 +208,26 @@
             "title": "Solution.",
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
-        "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-06.jpg"
-        }
+        "gallery": null
     },
 
     {
         "id": 7,
-        "portfolioImage": "./images/portfolio/portfolio-07.jpg",
-        "image": "images/portfolio/portfolio-07.jpg",
-        "title": "Design in figma",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "design",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/shera/main.png",
+        "image": "images/portfolio/shera/main.png",
+        "title": "Shera Token Migration",
+        "subtitle": "Shera Token Migration Smart Contract and DApp",
+        "date": "12 April 2022",
+        "client": "Shera Token",
+        "category": "ICO",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://sheraswap.surge.sh/"
         },
-        "largeImage": "images/portfolio/portfolio-07.jpg",
+        "largeImage": "images/portfolio/shera/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -244,30 +240,26 @@
             "title": "Solution.",
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
-        "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
-        }
+        "gallery": null
     },
 
     {
         "id": 8,
-        "portfolioImage": "./images/portfolio/portfolio-08.jpg",
-        "image": "images/portfolio/portfolio-08.jpg",
-        "title": "Application Managemnet",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "design",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/vrshiba/main.png",
+        "image": "images/portfolio/vrshiba/main.png",
+        "title": "VRShiba ICO",
+        "subtitle": "VRShiba ICO and DApp",
+        "date": "05 June 2022",
+        "client": "VRShiba",
+        "category": "ICO",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://vrshiba.surge.sh/"
         },
-        "largeImage": "images/portfolio/portfolio-08.jpg",
+        "largeImage": "images/portfolio/vrshiba/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -280,30 +272,26 @@
             "title": "Solution.",
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
-        "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
-        }
+        "gallery": null
     },
 
     {
         "id": 9,
-        "portfolioImage": "./images/portfolio/portfolio-01.jpg",
-        "image": "images/portfolio/portfolio-01.jpg",
-        "title": "Creative Business",
-        "subtitle": "Awesome portfolio",
-        "date": "01 March 2021",
-        "client": "Rainbow Themes",
-        "category": "design",
-        "awards": ["2020 Design beautiful apps Finale Awards"],
-        "excerpt": "Design beautiful apps.",
-        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+        "portfolioImage": "./images/portfolio/metaquantum/main.png",
+        "image": "images/portfolio/metaquantum/main.png",
+        "title": "Metaquantum Staking",
+        "subtitle": "Metaquantum Staking Smart Contract and DApp",
+        "date": "27 June 2022",
+        "client": "Metaquantum",
+        "category": "Staking",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
         "btn": {
             "buttontext": "View Projects",
-            "link": "/"
+            "link": "https://staking.meta-quantum.io/"
         },
-        "largeImage": "images/portfolio/portfolio-01.jpg",
+        "largeImage": "images/portfolio/metaquantum/main.png",
         "subContent": {
             "title": "Digital Marketing.",
             "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -316,10 +304,38 @@
             "title": "Solution.",
             "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
         },
-        "gallery": {
-            "imageOne": "images/portfolio/portfolio-01.jpg",
-            "imageTwo": "images/portfolio/portfolio-02.jpg",
-            "imageThree": "images/portfolio/portfolio-03.jpg"
-        }
+        "gallery": null
+    },
+
+    {
+        "id": 10,
+        "portfolioImage": "./images/portfolio/rising-sun/main.png",
+        "image": "images/portfolio/rising-sun/main.png",
+        "title": "Rising Sun NFT Staking",
+        "subtitle": "Rising Sun NFT Staking Smart Contract and DApp",
+        "date": "11 July 2022",
+        "client": "Rising Sun",
+        "category": "Staking",
+        "awards": [""],
+        "excerpt": "",
+        "body": ["<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"],
+        "btn": {
+            "buttontext": "View Projects",
+            "link": "https://staking.risingsuncoin.io/"
+        },
+        "largeImage": "images/portfolio/rising-sun/main.png",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": null
     }
 ]

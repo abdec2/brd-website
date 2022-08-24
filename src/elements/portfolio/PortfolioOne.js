@@ -10,15 +10,19 @@ const filters = [
     },
     {
       id: 2,
-      text: "design",
+      text: "NFT Collection",
     },
     {
       id: 3,
-      text: "art",
+      text: "Web Development",
     },
     {
       id: 4,
-      text: "development",
+      text: "ICO",
+    },
+    {
+      id: 5,
+      text: "Staking",
     }
 ];
 
@@ -44,8 +48,7 @@ const PortfolioOne = ({ Column }) => {
         } else {
           tempData = getAllItems.filter(
             (data) =>
-              data.category === e.target.textContent.toLowerCase() &&
-              data.id <= dataVisibleCount
+              data.category.toLowerCase() === e.target.textContent.toLowerCase()
           );
         }
         setVisibleItems(tempData);
