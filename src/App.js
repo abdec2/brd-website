@@ -81,6 +81,7 @@ const App = () => {
                     <Route path="/" exact component={BrdHome}/>
                     <Route path="/portfolio" exact component={CreativePortfolio}/>
                     <Route path="/portfolio-details/:id" exact component={PortfolioDetails}/> 
+                    <Route path="/contact" exact component={Contact}/>
                     {/* <Route path={`${process.env.PUBLIC_URL + "/business-consulting"}`} exact component={HomeDefault}/>
                     <Route path={`${process.env.PUBLIC_URL + "/business-consulting-2"}`} exact component={BusinessConsulting2}/>
                     <Route path={`${process.env.PUBLIC_URL + "/corporate"}`} exact component={Corporate}/>
