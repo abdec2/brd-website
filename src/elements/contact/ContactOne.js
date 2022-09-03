@@ -30,8 +30,8 @@ const ContactOne = () => {
                                     </div>
                                     <div className="inner">
                                         <h4 className="title">Our Email Address</h4>
-                                        <p><a href="mailto:admin@gmail.com">admin@gmail.com</a></p>
-                                        <p><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+                                        <p><a href="mailto:admin@gmail.com">info@brdigitech.com</a></p>
+                                        <p><a href="mailto:example@gmail.com">nomanhaq@brdigitech.com</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -43,7 +43,7 @@ const ContactOne = () => {
                                     </div>
                                     <div className="inner">
                                         <h4 className="title">Our Location</h4>
-                                        <p>5678 Bangla Main Road, cities 580 <br /> GBnagla, example 54786</p>
+                                        <p>Manama, Bahrain <br/> <br /></p>
                                     </div>
                                 </div>
                             </div>
@@ -53,12 +53,12 @@ const ContactOne = () => {
             </div>
 
             <div className="row mt--40 row--15">
-                <div className="col-lg-7">
+                <div className="col-lg-12">
                     <ContactForm formStyle="contact-form-1" />
                 </div>
-                <div className="col-lg-5 mt_md--30 mt_sm--30">
+                {/* <div className="col-lg-5 mt_md--30 mt_sm--30">
                     <GoogleMapStyle />
-                </div>
+                </div> */}
             </div>
         </>
     )

@@ -30,9 +30,9 @@ const AboutOne = () => {
                                 </h2>
                                 <p>We are young and dynamic company; we build innovative solutions using emerging technologies. Our expertise team over the years has streed to provide best in market services to our customers. We provide industry leading NFT development services, crypto currency exchange development, launch pad development, DeFi development and extensive crypto marketing services.  We strive to develop services which will fit your business.</p>
                                
-                                <div className="read-more-btn mt--40">
+                                {/* <div className="read-more-btn mt--40">
                                     <a className="btn-default" href="#"><span>More About Us</span></a>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

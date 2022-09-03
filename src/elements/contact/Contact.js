@@ -1,6 +1,6 @@
 import React from 'react';
 import SEO from "../../common/SEO";
-import Layout from "../../common/Layout";
+import Layout from "../../common/brdLayout";
 import BreadcrumbOne from "../breadcrumb/BreadcrumbOne";
 import SectionTitle from "../sectionTitle/SectionTitle";
 import ContactOne from "./ContactOne";
@@ -10,12 +10,12 @@ const Contact = () => {
         <>
             <SEO title="Contact || Doob - React Business  Template" />
             <Layout>
-                <BreadcrumbOne 
-                    title="The Easiest Way To Create Website <br /> Quick Copy & Make site."
+                {/* <BreadcrumbOne 
+                    title=""
                     rootUrl="/"
                     parentUrl="Home"
                     currentUrl="Contact"
-                />
+                /> */}
                 <div className="main-content">
                     {/* Start Contact Area  */}
                     <div className="rwt-contact-area rn-section-gap">
@@ -26,7 +26,7 @@ const Contact = () => {
                                         textAlign = "text-center"
                                         radiusRounded = ""
                                         subtitle = "Contact Form"
-                                        title = "Our Contact Address Here."
+                                        title = "Our Contact"
                                         description = ""
                                     />
                                 </div>

@@ -51,7 +51,7 @@ const BusinessConsulting2 = () => {
                                     </h1>
                                     <p className="description">We are young and dynamic company; we build innovative solutions using emerging technologies</p>
                                     <div className="button-group">
-                                        <Link className="btn-default btn-medium btn-border round btn-icon " to="#">Contact Us <i className="icon"><FiArrowRight /></i></Link>
+                                        <Link className="btn-default btn-medium btn-border round btn-icon " to="/contact">Contact Us <i className="icon"><FiArrowRight /></i></Link>
                                     </div>
                                 </div>
                             </div>
@@ -63,12 +63,14 @@ const BusinessConsulting2 = () => {
                 <Separator />
 
                 {/* Start About Area  */}
-                <AboutOne />                            
+                <div id='about'>
+                    <AboutOne /> 
+                </div>                           
                 {/* End About Area  */}
 
                 <Separator />                            
                 {/* Start Service Area  */}
-                <div className="rn-service-area rn-section-gap">
+                <div className="rn-service-area rn-section-gap" id='services'>
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
@@ -100,7 +102,7 @@ const BusinessConsulting2 = () => {
 
 
                  {/* Start Team Area  */}
-                 <div className="rwt-team-area rn-section-gap">
+                 {/* <div className="rwt-team-area rn-section-gap">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
@@ -115,7 +117,7 @@ const BusinessConsulting2 = () => {
                         </div>
                         <TeamTwo column="col-lg-4 col-md-6 col-12" teamStyle="team-style-default style-two" />
                     </div>
-                </div>
+                </div> */}
                 {/* End Team Area  */}
                 <Separator /> 
                 {/* Start Mission Area   */}
